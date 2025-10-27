@@ -1,0 +1,14 @@
+{
+    "dataset_path": "../Data/apple_stock.csv",
+    "time_steps": 30,
+    "batch_size": 32,
+    "input_size": 5,
+    "hidden_size": 100,
+    "num_layers": 3,
+    "learning_rate": 0.0001,
+    "epochs": 30,
+    "output_size": 1,
+    "random_seed": 42,
+    "test_size": 0.2,
+    "dropout": 0.3
+}
